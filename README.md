@@ -113,8 +113,8 @@ I am an **Artificial Intelligence and Data Science** undergraduate student based
 
 <h3 align="center">Contribution Snake</h3>
 <p align="center">
-  <!-- Once the GitHub Actions workflow runs, it commits this file to the 'output' branch -->
-  <img src="https://raw.githubusercontent.com/aaryasaaryas01-hue/aaryasaaryas01-hue/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <!-- Animated local contribution snake SVG -->
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <br>
